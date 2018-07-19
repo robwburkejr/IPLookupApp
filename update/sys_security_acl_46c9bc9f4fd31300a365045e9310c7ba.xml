@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_235773_iplookup_ipaddressinfo</description>
+        <name>x_235773_iplookup_ipaddressinfo</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-19 18:21:46</sys_created_on>
+        <sys_id>46c9bc9f4fd31300a365045e9310c7ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_235773_iplookup_ipaddressinfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_235773_iplookup">c21b334b4f531300a365045e9310c7fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">c21b334b4f531300a365045e9310c7fd</sys_scope>
+        <sys_update_name>sys_security_acl_46c9bc9f4fd31300a365045e9310c7ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-19 18:21:46</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
